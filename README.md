@@ -1,2 +1,5 @@
 # badge-lab
-change 5 1787328359
+
+Scratch repo for testing GitHub achievement badges (Pull Shark, YOLO, Pair Extraordinaire, Quickdraw) via small PRs merged without review.
+
+Not a real project — safe to ignore.
